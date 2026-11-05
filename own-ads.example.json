@@ -3,11 +3,11 @@
   "ads": [
     {
       "id": "campanha-001",
-      "title": "Conheça o produto X",
-      "body": "Descrição curta do produto ou da parceria.",
-      "imageUrl": "https://seu-dominio.com/ads/campanha-001.png",
+      "title": "Conheça o NutriFitPlan",
+      "body": "Planeje refeições, monte cardápios, registre suas consultas e acompanhe suas metas, tudo num só lugar.",
+      "imageUrl": "https://nutrifitplan.com.br/midia/b07-c992c93b-cover-df6976.webp",
       "ctaLabel": "Saiba mais",
-      "ctaUrl": "https://seu-dominio.com/produto-x",
+      "ctaUrl": "https://nutrifitplan.com.br/",
       "startsAt": 1793000000000,
       "endsAt": 1798000000000,
       "weight": 1
