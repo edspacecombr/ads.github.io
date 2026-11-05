@@ -1,0 +1,16 @@
+{
+  "ownEvery": 3,
+  "ads": [
+    {
+      "id": "campanha-001",
+      "title": "Conheça o produto X",
+      "body": "Descrição curta do produto ou da parceria.",
+      "imageUrl": "https://seu-dominio.com/ads/campanha-001.png",
+      "ctaLabel": "Saiba mais",
+      "ctaUrl": "https://seu-dominio.com/produto-x",
+      "startsAt": 1793000000000,
+      "endsAt": 1798000000000,
+      "weight": 1
+    }
+  ]
+}
